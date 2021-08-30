@@ -1,0 +1,3 @@
+""""""=>set the path where ligand is stored
+      =>set the path where grid_file to be created.
+     	 
